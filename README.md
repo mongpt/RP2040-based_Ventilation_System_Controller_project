@@ -120,7 +120,9 @@ If the target pressure cannot be reached in automatic mode within 1 minute, an e
  ├── sensors.cpp
  ├── storage.cpp
 /Docs
- ├── Ventilation_controller_project_specification-merged.pdf
+ ├── Ventilation_controller_project_specification.pdf
+ ├── Ventilation_controller_project_report.pdf
+ ├── User_Manual.pdf
 ```
 
 ---
