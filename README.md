@@ -109,24 +109,6 @@ If the target pressure cannot be reached in automatic mode within 1 minute, an e
 
 ---
 
-## 📂 Project Structure
-
-```
-/src
- ├── main.cpp
- ├── modbus.cpp
- ├── mqtt.cpp
- ├── ui.cpp
- ├── sensors.cpp
- ├── storage.cpp
-/Docs
- ├── Ventilation_controller_project_specification.pdf
- ├── Ventilation_controller_project_report.pdf
- ├── User_Manual.pdf
-```
-
----
-
 ## 📋 Documentation
 
 - [📄 System Specification (PDF)](./Docs/Ventilation_controller_project_specification.pdf)
