@@ -1,7 +1,13 @@
 
 # 💨 Ventilation System Controller
 
-An embedded system project for intelligent **airflow and pressure control** in indoor environments. Built using Raspberry Pi Pico, industrial sensors, and MQTT connectivity, the system ensures optimal ventilation through local and remote control.
+A prototype greenhouse ventilation controller developed as a school project on the Raspberry Pi Pico W,
+              using a bare-metal embedded software stack. The system interfaces with Vaisala’s industrial-grade
+              temperature and humidity sensors to monitor environmental conditions and control fan operation using
+              modular state machines and interrupt-driven logic. Environmental data is published to the cloud using the
+              MQTT protocol, enabling real-time remote monitoring and control. Designed with an emphasis on reliability,
+              responsiveness, and real-world sensor integration, this project demonstrates practical low-level embedded
+              development for smart greenhouse applications.
 
 > 🏫 Developed by Mong Phan, Xuan Dang, Sami Barbaglia, Hanh Hoang  
 > 🎓 Metropolia University of Applied Sciences, School of ICT  
